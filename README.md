@@ -1,5 +1,6 @@
 # LTD-Learning2018
 Home page.
-![Alt Text](https://media.giphy.com/media/2eKb8e8Pqe70X3x4yk/giphy.mp4)
+<img src="https://media.giphy.com/media/8hYyt0QWzjJnv23SOo/giphy.gif" width="40" height="40" />
+
 
 
